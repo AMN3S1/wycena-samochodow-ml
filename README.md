@@ -10,6 +10,7 @@ Model szacuje wartość rynkową (cenę ofertową) samochodu używanego na podst
 |---|---|
 | `model/mvp_model.py` | przygotowanie danych, uczenie i ocena modeli, wykresy, zapis modelu |
 | `model/mvp_model.ipynb` | ten sam kod w postaci notatnika Jupyter, z wynikami poszczególnych kroków |
+| `model/wycena_przyklad.py` | przykład wyceny pojedynczego samochodu za pomocą zapisanego modelu |
 | `model/results/` | tabele miar błędu (CSV), wykresy i zapisane modele (`lightgbm_model.joblib` – model końcowy) |
 | `model/requirements.txt` | wymagane biblioteki |
 | `src/download_data.py` | pobranie zbioru danych z serwisu Kaggle |
