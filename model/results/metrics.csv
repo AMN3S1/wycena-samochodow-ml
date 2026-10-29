@@ -1,0 +1,6 @@
+model;MAE [PLN];RMSE [PLN];MAPE [%];MdAPE [%];R2;czas uczenia [s]
+Mediana (marka+model);31120,95;60725,12;67,26;36,52;0,52;0,08
+Regresja liniowa (Ridge);9282,37;24064,38;15,08;9,85;0,93;10,36
+HistGradientBoosting;8040,35;20776,56;13,2;8,34;0,94;35,23
+LightGBM (parametry wyjściowe);7500,4;18408,6;12,71;8,04;0,96;11,22
+LightGBM (po strojeniu);7090,49;17889,28;12,34;7,65;0,96;49,52

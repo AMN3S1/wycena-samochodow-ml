@@ -1,0 +1,4 @@
+wariant;liczba ofert (test);MAE [PLN];RMSE [PLN];MAPE [%];MdAPE [%];R2
+Model pełny – wszystkie oferty;36926;7090,49;17889,28;12,34;7,65;0,96
+Model pełny – segment salonu;28187;7582,91;18946,03;9,34;6,52;0,96
+Model segmentowy – segment salonu;28187;7561,2;19505,83;9,35;6,45;0,96

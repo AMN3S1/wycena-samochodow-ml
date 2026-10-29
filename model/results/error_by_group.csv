@@ -1,0 +1,24 @@
+grupa;liczba ofert;MAE [PLN];MAPE [%];MdAPE [%];błąd do 10% [% ofert];błąd do 20% [% ofert]
+wszystkie oferty;36926,0;7090,5;12,3;7,7;60,7;84,8
+segment salonu;28187,0;7582,9;9,3;6,5;68,3;91,5
+poza segmentem;8739,0;5502,2;22,0;14,6;36,3;63,0
+nieuszkodzone;34595,0;6925,3;11,3;7,3;62,8;86,7
+uszkodzone;2331,0;9542,0;27,0;17,4;30,0;56,0
+wiek 0–3 lata;4200,0;17015,7;12,0;6,1;69,8;89,6
+wiek 4–8 lat;12860,0;8349,7;9,4;6,3;69,2;91,5
+wiek 9–15 lat;13240,0;4248,9;11,1;7,7;60,9;86,7
+wiek ponad 15 lat;6626,0;4033,3;20,6;14,0;38,0;64,7
+sprzedawca: osoba prywatna;21006,0;6619,9;13,6;8,7;55,7;81,5
+sprzedawca: dealer;12700,0;6913,2;11,1;7,0;64,4;87,4
+sprzedawca: autoryzowany dealer;3220,0;10860,0;9,2;5,1;79,2;96,0
+segment salonu, cena <20k;2469,0;2318,6;18,1;10,1;49,7;78,3
+segment salonu, cena 20–50k;10336,0;3064,7;8,9;6,6;68,5;92,2
+segment salonu, cena 50–100k;8866,0;5612,4;7,8;5,7;73,8;94,2
+segment salonu, cena 100–200k;4582,0;11648,4;8,2;6,1;70,6;93,1
+segment salonu, cena >200k;1934,0;37851,7;10,2;7,9;60,4;88,3
+model auta: poniżej 50 ofert w zbiorze uczącym;1937,0;18207,2;21,4;13,6;39,6;65,1
+model auta: 50–500 ofert w zbiorze uczącym;13510,0;8657,1;13,2;8,1;58,6;84,0
+model auta: ponad 500 ofert w zbiorze uczącym;21479,0;5102,6;11,0;7,0;63,9;87,0
+segment salonu, model auta: poniżej 50 ofert;1104,0;25089,8;14,8;9,9;50,8;78,1
+segment salonu, model auta: 50–500 ofert;10356,0;9230,4;10,4;7,0;65,5;90,3
+segment salonu, model auta: ponad 500 ofert;16727,0;5407,5;8,3;6,1;71,2;93,1
