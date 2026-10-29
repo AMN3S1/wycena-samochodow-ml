@@ -565,7 +565,7 @@ lims = [2_000, 1_500_000]
 ax.plot(lims, lims, color="#c0392b", lw=1)
 ax.set(xscale="log", yscale="log", xlim=lims, ylim=lims,
        xlabel="Cena rzeczywista [PLN]", ylabel="Cena przewidywana [PLN]",
-       title=f"{best}: cena rzeczywista vs przewidywana (zbiór testowy)")
+       title="Cena rzeczywista a przewidywana (zbiór testowy)")
 fig.tight_layout()
 fig.savefig(RESULTS_DIR / "actual_vs_predicted.png", dpi=150)
 

@@ -43,6 +43,22 @@ Pełne uruchomienie trwa około 12 minut. Wyniki zapisywane są w `model/results
 
 W segmencie odpowiadającym zadaniu salonu (auta nieuszkodzone, nie starsze niż 15 lat; 76,5% ofert) MAPE modelu wynosi 9,3%.
 
+### Porównanie modeli
+
+![Średni błąd bezwzględny modeli na zbiorze testowym](model/results/model_comparison_mae.png)
+
+### Cena rzeczywista a przewidywana
+
+Każdy punkt to jedna oferta ze zbioru testowego (skala logarytmiczna); im bliżej czerwonej przekątnej, tym dokładniejsza wycena.
+
+![Cena rzeczywista a cena przewidywana przez model LightGBM](model/results/actual_vs_predicted.png)
+
+### Najważniejsze cechy
+
+Udział cech w redukcji błędu modelu LightGBM. Najważniejsze są wiek, przebieg, moc silnika, generacja, model i rodzaj skrzyni biegów.
+
+![20 najważniejszych cech modelu LightGBM](model/results/feature_importance.png)
+
 ## Ograniczenia
 
 - Model uczono na cenach ofertowych, a nie transakcyjnych; nie wyznacza on ceny odkupu.

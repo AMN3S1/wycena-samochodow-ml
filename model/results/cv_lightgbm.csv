@@ -1,22 +1,22 @@
 wariant;podział;MAE [PLN];RMSE [PLN];MAPE [%];MdAPE [%];R2;czas uczenia [s];liczba drzew
-LightGBM (parametry wyjściowe);1;7490,48;20153,32;12,79;8,14;0,94;12,55;603,0
-LightGBM (parametry wyjściowe);2;7602,45;21584,13;12,75;8,07;0,94;14,07;702,0
-LightGBM (parametry wyjściowe);3;7409,1;19682,27;12,67;8,17;0,94;12,04;583,0
-LightGBM (parametry wyjściowe);4;7646,98;21401,25;12,78;8,18;0,94;20,53;1085,0
-LightGBM (parametry wyjściowe);5;7619,74;21674,51;12,62;8,06;0,94;12,97;648,0
-LightGBM (parametry wyjściowe);średnia;7553,75;20899,1;12,72;8,12;0,94;14,43;724,2
-LightGBM (parametry wyjściowe);odch. std.;100,43;916,45;0,07;0,06;0,0;3,49;206,82
-LightGBM (po strojeniu);1;7144,52;20455,22;12,36;7,69;0,94;39,73;855,0
-LightGBM (po strojeniu);2;7239,42;21577,61;12,34;7,65;0,94;46,39;1010,0
-LightGBM (po strojeniu);3;7042,88;19502,4;12,3;7,77;0,95;41,08;841,0
-LightGBM (po strojeniu);4;7269,22;20621,4;12,41;7,71;0,94;57,97;1034,0
-LightGBM (po strojeniu);5;7300,29;22379,75;12,27;7,77;0,93;58,35;1018,0
-LightGBM (po strojeniu);średnia;7199,27;20907,28;12,33;7,72;0,94;48,71;951,6
-LightGBM (po strojeniu);odch. std.;105,08;1104,23;0,05;0,05;0,01;8,99;95,1
-LightGBM – model segmentowy;1;7511,25;20182,47;9,27;6,51;0,95;38,86;770,0
-LightGBM – model segmentowy;2;7948,77;24291,19;9,38;6,58;0,93;42,04;995,0
-LightGBM – model segmentowy;3;7853,65;23280,37;9,43;6,6;0,94;40,31;896,0
-LightGBM – model segmentowy;4;7531,56;21407,4;9,35;6,52;0,95;32,4;719,0
-LightGBM – model segmentowy;5;7702,76;22180,6;9,31;6,56;0,94;37,58;846,0
-LightGBM – model segmentowy;średnia;7709,6;22268,41;9,35;6,55;0,94;38,24;845,2
-LightGBM – model segmentowy;odch. std.;193,03;1598,12;0,06;0,04;0,01;3,67;107,94
+LightGBM (parametry wyjściowe);1;7490,48;20153,32;12,79;8,14;0,94;12,57;603,0
+LightGBM (parametry wyjściowe);2;7602,45;21584,13;12,75;8,07;0,94;14,1;702,0
+LightGBM (parametry wyjściowe);3;7409,1;19682,27;12,67;8,17;0,94;12,62;583,0
+LightGBM (parametry wyjściowe);4;7646,98;21401,25;12,78;8,18;0,94;19,01;1085,0
+LightGBM (parametry wyjściowe);5;7619,74;21674,51;12,62;8,06;0,94;11,74;648,0
+LightGBM (parametry wyjściowe);średnia;7553,75;20899,1;12,72;8,12;0,94;14,01;724,2
+LightGBM (parametry wyjściowe);odch. std.;100,43;916,45;0,07;0,06;0,0;2,92;206,82
+LightGBM (po strojeniu);1;7144,52;20455,22;12,36;7,69;0,94;37,04;855,0
+LightGBM (po strojeniu);2;7239,42;21577,61;12,34;7,65;0,94;41,64;1010,0
+LightGBM (po strojeniu);3;7042,88;19502,4;12,3;7,77;0,95;41,76;841,0
+LightGBM (po strojeniu);4;7269,22;20621,4;12,41;7,71;0,94;43,62;1034,0
+LightGBM (po strojeniu);5;7300,29;22379,75;12,27;7,77;0,93;43,41;1018,0
+LightGBM (po strojeniu);średnia;7199,27;20907,28;12,33;7,72;0,94;41,49;951,6
+LightGBM (po strojeniu);odch. std.;105,08;1104,23;0,05;0,05;0,01;2,65;95,1
+LightGBM – model segmentowy;1;7511,25;20182,47;9,27;6,51;0,95;30,85;770,0
+LightGBM – model segmentowy;2;7948,77;24291,19;9,38;6,58;0,93;38,6;995,0
+LightGBM – model segmentowy;3;7853,65;23280,37;9,43;6,6;0,94;35,43;896,0
+LightGBM – model segmentowy;4;7531,56;21407,4;9,35;6,52;0,95;29,85;719,0
+LightGBM – model segmentowy;5;7702,76;22180,6;9,31;6,56;0,94;33,99;846,0
+LightGBM – model segmentowy;średnia;7709,6;22268,41;9,35;6,55;0,94;33,74;845,2
+LightGBM – model segmentowy;odch. std.;193,03;1598,12;0,06;0,04;0,01;3,53;107,94
